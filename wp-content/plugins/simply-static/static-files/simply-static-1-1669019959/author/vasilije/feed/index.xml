@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vasilije &#8211; MyWordPress</title>
+	<atom:link href="/https://vasilije1999.github.io/Wordpress/author/vasilije/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://vasilije1999.github.io/Wordpress</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Nov 2022 08:24:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>/https://vasilije1999.github.io/Wordpress/2022/11/21/hello-world/</link>
+					<comments>/https://vasilije1999.github.io/Wordpress/2022/11/21/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Vasilije]]></dc:creator>
+		<pubDate>Mon, 21 Nov 2022 08:24:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/https://vasilije1999.github.io/Wordpress/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://vasilije1999.github.io/Wordpress/2022/11/21/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nulla nibh neque, suscipit sit amet dictum nec</title>
+		<link>/https://vasilije1999.github.io/Wordpress/2018/06/29/nulla-nibh-neque-suscipit-sit-amet-dictum-nec/</link>
+					<comments>/https://vasilije1999.github.io/Wordpress/2018/06/29/nulla-nibh-neque-suscipit-sit-amet-dictum-nec/#respond</comments>
+		
+		<dc:creator><![CDATA[Vasilije]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2018 14:06:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://demo.athemes.com/atu-health-coach/?p=286</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a erat eleifend, vulputate nulla imperdiet, hendrerit felis. Nunc eu augue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a erat eleifend, vulputate nulla imperdiet, hendrerit felis. Nunc eu augue dignissim, tristique massa in, consectetur magna. Aenean diam velit, ultricies a blandit eget, accumsan sit amet lorem. In hac habitasse platea dictumst. Sed viverra risus et nulla finibus commodo. Suspendisse aliquam elit ut leo rutrum egestas. Maecenas quis finibus augue, ac commodo mauris.</p>
+<p>Maecenas tempus lacus quis ante tempor auctor. Nulla nibh neque, suscipit sit amet dictum nec, tincidunt a dui. Etiam auctor porta porta. Vestibulum sed lacus convallis, blandit urna vel, lacinia elit. Aenean blandit orci eros, eget porttitor urna tristique a. Quisque quis leo ipsum. Nulla luctus mauris ligula, ut placerat urna venenatis in. Quisque at nisl maximus, fringilla magna sed, venenatis arcu. Praesent a ullamcorper leo. Donec in pharetra eros, id ultricies lorem. Morbi tincidunt urna sed tellus venenatis sollicitudin. Nulla dictum tristique sem, nec fermentum arcu porttitor sit amet. Donec facilisis finibus mollis.</p>
+<p>Donec pellentesque lorem semper libero auctor pretium. Phasellus non lectus fringilla, ultrices lectus ac, volutpat nulla. In finibus suscipit risus, hendrerit posuere orci suscipit quis. Proin dictum lacus hendrerit erat vulputate, vitae fermentum quam rhoncus. Curabitur vel egestas erat, in volutpat nibh. Sed non mi quis odio congue iaculis. Mauris dictum tincidunt metus, quis pretium ipsum ultrices sed. Vivamus interdum a diam ac egestas. Aenean sapien felis, posuere at aliquet sed, tempor non nunc. Phasellus varius bibendum magna eget laoreet. Morbi ac ultricies nisi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://vasilije1999.github.io/Wordpress/2018/06/29/nulla-nibh-neque-suscipit-sit-amet-dictum-nec/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Morbi tincidunt urna sed tellus venenatis sollicitudin</title>
+		<link>/https://vasilije1999.github.io/Wordpress/2018/06/29/morbi-tincidunt-urna-sed-tellus-venenatis-sollicitudin/</link>
+					<comments>/https://vasilije1999.github.io/Wordpress/2018/06/29/morbi-tincidunt-urna-sed-tellus-venenatis-sollicitudin/#respond</comments>
+		
+		<dc:creator><![CDATA[Vasilije]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2018 14:06:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://demo.athemes.com/atu-health-coach/?p=287</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a erat eleifend, vulputate nulla imperdiet, hendrerit felis. Nunc eu augue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a erat eleifend, vulputate nulla imperdiet, hendrerit felis. Nunc eu augue dignissim, tristique massa in, consectetur magna. Aenean diam velit, ultricies a blandit eget, accumsan sit amet lorem. In hac habitasse platea dictumst. Sed viverra risus et nulla finibus commodo. Suspendisse aliquam elit ut leo rutrum egestas. Maecenas quis finibus augue, ac commodo mauris.</p>
+<p>Maecenas tempus lacus quis ante tempor auctor. Nulla nibh neque, suscipit sit amet dictum nec, tincidunt a dui. Etiam auctor porta porta. Vestibulum sed lacus convallis, blandit urna vel, lacinia elit. Aenean blandit orci eros, eget porttitor urna tristique a. Quisque quis leo ipsum. Nulla luctus mauris ligula, ut placerat urna venenatis in. Quisque at nisl maximus, fringilla magna sed, venenatis arcu. Praesent a ullamcorper leo. Donec in pharetra eros, id ultricies lorem. Morbi tincidunt urna sed tellus venenatis sollicitudin. Nulla dictum tristique sem, nec fermentum arcu porttitor sit amet. Donec facilisis finibus mollis.</p>
+<p>Donec pellentesque lorem semper libero auctor pretium. Phasellus non lectus fringilla, ultrices lectus ac, volutpat nulla. In finibus suscipit risus, hendrerit posuere orci suscipit quis. Proin dictum lacus hendrerit erat vulputate, vitae fermentum quam rhoncus. Curabitur vel egestas erat, in volutpat nibh. Sed non mi quis odio congue iaculis. Mauris dictum tincidunt metus, quis pretium ipsum ultrices sed. Vivamus interdum a diam ac egestas. Aenean sapien felis, posuere at aliquet sed, tempor non nunc. Phasellus varius bibendum magna eget laoreet. Morbi ac ultricies nisi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://vasilije1999.github.io/Wordpress/2018/06/29/morbi-tincidunt-urna-sed-tellus-venenatis-sollicitudin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quisque at nisl maximus, fringilla magna sed</title>
+		<link>/https://vasilije1999.github.io/Wordpress/2018/06/29/quisque-at-nisl-maximus-fringilla-magna-sed/</link>
+					<comments>/https://vasilije1999.github.io/Wordpress/2018/06/29/quisque-at-nisl-maximus-fringilla-magna-sed/#respond</comments>
+		
+		<dc:creator><![CDATA[Vasilije]]></dc:creator>
+		<pubDate>Fri, 29 Jun 2018 14:06:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://demo.athemes.com/atu-health-coach/?p=284</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a erat eleifend, vulputate nulla imperdiet, hendrerit felis. Nunc eu augue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a erat eleifend, vulputate nulla imperdiet, hendrerit felis. Nunc eu augue dignissim, tristique massa in, consectetur magna. Aenean diam velit, ultricies a blandit eget, accumsan sit amet lorem. In hac habitasse platea dictumst. Sed viverra risus et nulla finibus commodo. Suspendisse aliquam elit ut leo rutrum egestas. Maecenas quis finibus augue, ac commodo mauris.</p>
+<p>Maecenas tempus lacus quis ante tempor auctor. Nulla nibh neque, suscipit sit amet dictum nec, tincidunt a dui. Etiam auctor porta porta. Vestibulum sed lacus convallis, blandit urna vel, lacinia elit. Aenean blandit orci eros, eget porttitor urna tristique a. Quisque quis leo ipsum. Nulla luctus mauris ligula, ut placerat urna venenatis in. Quisque at nisl maximus, fringilla magna sed, venenatis arcu. Praesent a ullamcorper leo. Donec in pharetra eros, id ultricies lorem. Morbi tincidunt urna sed tellus venenatis sollicitudin. Nulla dictum tristique sem, nec fermentum arcu porttitor sit amet. Donec facilisis finibus mollis.</p>
+<p>Donec pellentesque lorem semper libero auctor pretium. Phasellus non lectus fringilla, ultrices lectus ac, volutpat nulla. In finibus suscipit risus, hendrerit posuere orci suscipit quis. Proin dictum lacus hendrerit erat vulputate, vitae fermentum quam rhoncus. Curabitur vel egestas erat, in volutpat nibh. Sed non mi quis odio congue iaculis. Mauris dictum tincidunt metus, quis pretium ipsum ultrices sed. Vivamus interdum a diam ac egestas. Aenean sapien felis, posuere at aliquet sed, tempor non nunc. Phasellus varius bibendum magna eget laoreet. Morbi ac ultricies nisi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://vasilije1999.github.io/Wordpress/2018/06/29/quisque-at-nisl-maximus-fringilla-magna-sed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
